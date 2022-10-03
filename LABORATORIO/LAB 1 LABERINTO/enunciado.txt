@@ -1,0 +1,9 @@
+Desarrollar lo siguiente:
+
+1. Contruir un programa en Python que permita construir un laberinto utilizando listas y su representacion debe ser realizada utilizando caracteres, el tamaño debe ser ingresado cuando inicie el programa, como el numero de obstaculos,  el numero de celdas que representen paredes o espacio libre para transitar. 
+
+2. Implementar un mecanismo para que un caracter se desplaze de manera aleatoria solamente en los espacios considerados de libre transito.
+
+3. Subir el codigo a un repositorio, e incluir la direccion del mismo en esta seccion.
+
+4. Agregar en esta seccion el archivo comprimido del repositorio que se cree. 
